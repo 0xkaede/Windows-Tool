@@ -1,1 +1,14 @@
-
+{
+    "Application": {
+        "MainExe": "https://cdn.discordapp.com/attachments/889423498945101837/950511890411429998/0xkaede_Windows_Tool.exe",
+        "Version": "1.0.0.1"
+    },
+    "Games": {
+        "Minecraft": {
+            "Installer": "",
+            "Versions": {
+                "1.8.9": ""
+            }
+        }
+    }
+}
