@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\bin\Debug\0xkaede_Windows_Tool.exe.config
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\bin\Debug\0xkaede_Windows_Tool.exe
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\bin\Debug\0xkaede_Windows_Tool.pdb
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\bin\Debug\System.CodeDom.xml
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.csproj.CopyComplete
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.exe
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.pdb
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\obj\Debug\0xkaede_Windows_Tool.csproj.Fody.CopyLocal.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\0xkaede_Windows_Tool\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\bin\Debug\Windows Tool Launcher.exe.config
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\bin\Debug\Windows Tool Launcher.exe
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\bin\Debug\Windows Tool Launcher.pdb
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.csproj.Fody.CopyLocal.cache
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.csproj.CopyComplete
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.exe
+C:\Users\User\source\repos\0xkaede_Windows_Tool\Windows Tool Launcher\obj\Debug\Windows Tool Launcher.pdb
