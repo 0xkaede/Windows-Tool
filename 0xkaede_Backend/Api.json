@@ -1,14 +1,15 @@
 {
     "Application": {
         "MainExe": "https://cdn.discordapp.com/attachments/889423498945101837/950511890411429998/0xkaede_Windows_Tool.exe",
-        "Version": "1.0.0.0"
+        "Version": "1.0.0.1"
     },
     "Games": {
         "Minecraft": {
-            "Installer": "",
+            "Installer": "https://cdn.discordapp.com/attachments/889423498945101837/941683316673904671/TLauncher-2.72-Installer-0.6.81.exe",
             "Versions": {
-                "1.8.9": ""
+                "1.8.9": "https://cdn.discordapp.com/attachments/709126440825913374/943779477060718632/1.8.9.zip"
             }
-        }
+        },
+        "3dEmulator": "https://drive.google.com/file/d/1QCvblrm4scbDd_qwds5AN2gpzMdIo1VZ/view"
     }
 }
